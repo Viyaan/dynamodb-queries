@@ -1,0 +1,5 @@
+{
+ "Artist": {"S":"Bryan Adams"},
+ "SongTitle": {"S":"The Best Of Me"}
+  "Released": {"S":"1999"}
+}

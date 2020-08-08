@@ -1,0 +1,46 @@
+{
+    
+    "Music": [
+            {
+             "PutRequest": {
+					"Item": {
+					 "Artist": {"S":"Backstreet"},
+					 "SongTitle": {"S":"Everybody"},
+					 "AlbumTitle": {"S":"backstreetback"},
+					 "Genre": {"S":"Rock"}
+					}
+                }
+            },
+			{
+             "PutRequest": {
+					"Item": {
+					 "Artist": {"S":"BoyZone"},
+					 "SongTitle": {"S":"words"},
+					 "AlbumTitle": {"S":"Blue Zone"},
+					 "Genre": {"S":"Rock"}
+					}
+                }
+            },
+			{
+             "PutRequest": {
+					"Item": {
+					 "Artist": {"S":"Eminem"},
+					 "SongTitle": {"S":"Blue Rap"},
+					 "AlbumTitle": {"S":"Dil Dewaana"},
+					 "Genre": {"S":"Rock"}
+					}
+                }
+            },
+			{
+             "PutRequest": {
+					"Item": {
+					 "Artist": {"S":"Jackson"},
+					 "SongTitle": {"S":"Beat it"},
+					 "AlbumTitle": {"S":"Dil Dewaana"},
+					 "Genre": {"S":"Rock"}
+					}
+                }
+            }
+        ]
+
+}

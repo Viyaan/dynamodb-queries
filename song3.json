@@ -1,0 +1,6 @@
+{
+ "Artist": {"S":"David Bowie"},
+ "SongTitle": {"S":"My Life"},
+ "AlbumTitle": {"S":"Heroes"},
+  "Released": {"S":"1998"}
+}

@@ -1,0 +1,6 @@
+{
+ "Artist": {"S":"Sonu Nigam"},
+ "SongTitle": {"S":"Dil Dewaana"},
+ "AlbumTitle": {"S":"Dil Dewaana"},
+  "Genre": {"S":"Rock"}
+}
